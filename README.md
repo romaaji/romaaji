@@ -1,10 +1,9 @@
-### Hi there, I'm [Romadhon Aji Satrya!](https://romadhonaji.my.id) 👋
 <img src="https://count.getloli.com/get/@:romaaji" alt=":romaaji" /> 
 
-<img align="right" width="400" height="400" src="https://instagram.feoh3-1.fna.fbcdn.net/v/t51.2885-15/e35/72767618_530543940843085_5872510229440679720_n.jpg?_nc_ht=instagram.feoh3-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=QePZ0N-eHRoAX_hftNl&oh=08407c6056b3380fc09d01f51ed9729c&oe=5F30A1C4">
+<img align="right" width="400" height="400" src="https://i.pinimg.com/736x/24/6c/81/246c81a750754a5c03157c4a01167707.jpg">
 
 
-# Hi, There I'm Romadhonaji :chicken:
+# Hi, There I'm [Romadhon Aji Satrya!](https://romadhonaji.my.id) 👋
 
 Full-Stack | Software engineer :robot:. (In progress)
 
