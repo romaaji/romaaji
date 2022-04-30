@@ -1,7 +1,4 @@
-<img src="https://count.getloli.com/get/@:romaaji" alt=":romaaji" /> 
-
 <img align="right" width="400" height="400" src="https://i.pinimg.com/736x/24/6c/81/246c81a750754a5c03157c4a01167707.jpg">
-
 
 # Hi, There I'm [Romadhon Aji Satrya!](https://romadhonaji.my.id) 👋
 
@@ -23,5 +20,7 @@ Full-Stack | Software engineer :robot:. (In progress)
 ### My GitHub Stats
 
 ![Romadhonaji's github stats](https://github-readme-stats.vercel.app/api?username=romaaji&show_icons=true)
+
+<img src="https://count.getloli.com/get/@:romaaji" alt=":romaaji" /> 
 
 ⭐️ From [Romadhonaji](https://github.com/romaaji)
